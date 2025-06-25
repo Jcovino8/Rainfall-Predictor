@@ -1,4 +1,4 @@
 # IBM-AI-Course
-This is my python codes from the labs that are part of the IBM AI Certificate course on Coursera that I am completing.
+These are all of my labs from course 1 of my IBM AI Professional Certificate
 
-These are from Course 1/13, Machine Learning with Python
+The Final project I created utilizes AI to predict rainfall
